@@ -1,7 +1,10 @@
 
 # React Movie Search App
 
-This is a project built to get hands on React basics
+This is a project built to get hands on some React basics such as: 
+
+* React Hooks
+* Fetch API
 
 
 
